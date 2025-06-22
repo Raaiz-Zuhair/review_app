@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "719ca9b7-9c5f-4278-b02c-d075da7b1658",
+      "text": "My first application in React"
+    },
+    {
+      "id": "66e25936-8e84-4037-be6c-01a4ad37f719",
+      "text": "React Context API – Global state management for reviews"
+    },
+    {
+      "id": "6536d783-3f68-43ab-bd35-2d12f41d5e11",
+      "text": "Axios – To handle API requests (GET, POST, DELETE)"
+    },
+    {
+      "id": "13e25f7a-af68-4343-86dc-d90340ffd5ff",
+      "text": "JSON Server – Mock backend to store reviews (db.json)"
+    },
+    {
+      "id": "1d451d52-fbff-4982-8866-f541749b813c",
+      "text": "Component-Based Structure"
+    },
+    {
+      "id": "5fa3091b-c582-49ff-9e63-033e5b86c03c",
+      "text": "Dynamic Rendering – updates instantly on changes"
+    },
+    {
+      "id": "316df5d1-20ed-4474-b96f-bedf0b23c8e6",
+      "text": "Real-Time Count – how many reviews have been posted"
+    }
+  ]
+}
