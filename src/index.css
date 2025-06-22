@@ -16,7 +16,6 @@ body {
   background-color: rgb(202, 202, 202);
 }
 
-/* Layout Container */
 .container {
   max-width: 750px;
   margin: 0 auto;
@@ -34,13 +33,13 @@ header {
   margin-bottom: 30px;
 }
 
-/* Reusable Flex */
+
 .flex {
   display: flex;
   justify-content: space-between;
 }
 
-/* Card Styles */
+
 .card {
   padding: 20px 40px;
   background-color: white;
@@ -60,7 +59,6 @@ header {
   gap: 15px;
 }
 
-/* Input Group */
 .input-group {
   display: flex;
   justify-content: space-between;
@@ -80,7 +78,6 @@ input:focus {
   outline: none;
 }
 
-/* Buttons */
 .btn {
   padding: 10px 20px;
   border: none;
@@ -108,13 +105,11 @@ button:disabled {
   cursor: not-allowed;
 }
 
-/* Message/Error */
 .message {
   color: #b73939;
   margin-top: 20px;
 }
 
-/* Footer */
 footer {
   padding: 10px;
   background-color: lightgray;
